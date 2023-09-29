@@ -1,0 +1,364 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #3B4664;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container{
+    height: 650px;
+    width: 536px;
+
+}
+
+.head{
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-right: 50px;
+    color: white;
+}
+
+.gp-1{
+    width: 536px;
+    height: 142.73px;
+    border-radius: 12px;
+    background: #181F32;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.gp-1 .box-1{
+
+    width: 385px;
+    height: 55px;
+    top: 244px;
+    left: 691px;
+
+    font-family: Segoe UI;
+    font-size: 55px;
+    font-weight: 700;
+    line-height: 73px;
+    letter-spacing: 0em;
+    text-align: right;
+    background: #181F32;
+    border: none;
+    outline: none;
+    margin-right: 30px;
+    color: white;
+    letter-spacing: 10px;
+}
+
+.gp-2{
+    margin-top: 10px;
+    border-radius: 12px;
+    background: #252D44;
+}
+
+.btn-r-1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 8px; 
+    padding-top: 40px;
+}
+.btn-r-2{
+    display: flex;
+     justify-content: space-evenly;
+     align-items: center;
+     padding: 8px; 
+ }
+ .btn-r-3{
+    display: flex;
+     justify-content: space-evenly;
+     align-items: center;
+     padding: 8px; 
+ }
+ .btn-r-4{
+    display: flex;
+     justify-content: space-evenly;
+     align-items: center;
+     padding: 8px; 
+ }
+ .btn-r-5{
+    display: flex;
+     justify-content: space-evenly;
+     align-items: center;
+     padding: 8px; 
+     padding-bottom: 45px;
+ }
+.bt1{
+    display:inline-block;
+    width: 100px;
+    height: 60px;
+    border-radius: 11.52px;
+}
+.bt1-text{
+    
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.bt2{
+    display:inline-block;
+    width: 100px;
+    height: 60px;
+    border-radius: 11.52px;
+}
+
+.bt2-text{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+}.bt3{
+    display:inline-block;
+    width: 100px;
+    height: 60px;
+    border-radius: 11.52px;
+}
+
+.bt3-text{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.bt4{
+    display:inline-block;
+    width: 100px;
+    height: 60px;
+    border-radius: 11.52px;
+}
+
+.bt4-text{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.bt5{
+    display:inline-block;
+    width: 100px;
+    height: 60px;
+    border-radius: 11.52px;
+}
+
+.bt5-text{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.bt6{
+    display:inline-block;
+    width: 100px;
+    height: 60px;
+    border-radius: 11.52px;
+}
+
+.bt6-text{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.bt7{
+    display:inline-block;
+    width: 100px;
+    height: 60px;
+    border-radius: 11.52px;
+}
+
+.bt7-text{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.bt8{
+    display:inline-block;
+    width: 100px;
+    height: 60px;
+    border-radius: 11.52px;
+}
+
+.bt8-text{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.bt9{
+    display:inline-block;
+    width: 100px;
+    height: 60px;
+    border-radius: 11.52px;
+}
+.bt9-text{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.btdel{
+    display:inline-block;
+    width: 100px;
+    height: 60px;
+    border-radius: 11.52px;
+    background: #647299;
+}
+.btdel-text{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.bt0{
+    display:inline-block;
+    width: 100px;
+    height: 60px;
+    border-radius: 11.52px;
+}
+.bt0-text{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.btplus{
+    display:inline-block;
+    width: 100px;
+    height: 60px;
+    border-radius: 11.52px;
+}
+.btplus-text{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.btneg{
+    display:inline-block;
+    width: 100px;
+    height: 60px;
+    border-radius: 11.52px;
+}
+.btneg-text{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.btinto{
+    display:inline-block;
+    width: 100px;
+    height: 60px;
+    border-radius: 11.52px;
+}
+.btinto-text{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.btdev{
+    display:inline-block;
+    width: 100px;
+    height: 60px;
+    border-radius: 11.52px;
+}
+.btdev-text{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.btdot{
+    display:inline-block;
+    width: 100px;
+    height: 60px;
+    border-radius: 11.52px;
+}
+.btdot-text{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.btreset{
+    display:inline-block;
+    width: 222.44px;
+    height: 60px;
+    border-radius: 11.52px;
+    background: #647299;
+}
+.btreset-text{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white;
+
+}
+.bteq{
+    display:inline-block;
+    width: 222.44px;
+    height: 60px;
+    border-radius: 11.52px;
+    background: #D13F30;
+}
+.bteq-text{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white;
+}
